@@ -1,16 +1,30 @@
-### Hi there 👋
+## Saludos y bienvenidos sean.
 
-<!--
-**angelpineda-dev/angelpineda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  
+  # Angel Pineda
+  
+</div>
 
-Here are some ideas to get you started:
+<img width="400" height="auto" align="right" src="https://raw.githubusercontent.com/angelpineda-dev/Home/master/assets/images/profile-picture.jpeg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **desarrollador frontend autodidacta**, construyo __aplicaciones para el navegador web__ responsivas para dispositivos como smartphones, tablets, laptos y computadores de escritorio, esto con ayuda de __lenguajes de programación, librerias y frameworks__ relacionados a la web.
+
+### Herramientas
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Redux
+- Material UI
+- npm
+- git
+
+### Editor de codigo
+- Visual Studio Code
+
+### Sitio web
+<a href="https://www.angelpineda.com.mx/" target="_blank" rel="noopener">
+  angelpineda
+</a>
