@@ -25,6 +25,6 @@ Soy **desarrollador frontend autodidacta**, construyo __aplicaciones para el nav
 - Visual Studio Code
 
 ### Sitio web
-<a href="https://www.angelpineda.com.mx/" target="_blank" rel="noopener">
-  angelpineda
+<a href="https://angelpineda-dev.github.io/Home/" target="_blank" rel="noopener">
+  www.angelpineda.dev
 </a>
